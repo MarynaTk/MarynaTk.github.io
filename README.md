@@ -1,8 +1,12 @@
 # MarynaTk.github.io
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
 <head>
-    <title>Моє резюме</title>
-    <a href=https://developer.chrome.com
+<title></title>
 </head>
+<body>
+<h1><center> <front color="#003399">Description </front></center></h1><br>
+Text
+</front>
+</boby>
 </html>
