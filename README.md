@@ -6,7 +6,6 @@
     <title>Моє резюме</title>
 </head>
 <body>
-<main>
   <a href=https://developer.chrome.com
 
 <div class="wrapper">
@@ -85,6 +84,5 @@
 </div>
 
 
-</main>
 </body>
 </html>
