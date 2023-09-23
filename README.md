@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>Моє резюме</title>
-    <link rel="stylesheet" href="./style.css">
+    <a href=https://developer.chrome.com
 </head>
 </html>
